@@ -1,6 +1,6 @@
 ## 📈 GitHub STATS 📉
 
-[![HighestDream's stats](https://github-readme-stats.vercel.app/api?username=highestdreams&count_private=true&theme=radical )]
+![HighestDream's stats](https://github-readme-stats.vercel.app/api?username=highestdreams&count_private=true&theme=radical ) <br>
 Hi there, I'm a high school student, my branch is physics & mathematics and i'm in the last year of my highschool, I love to learn new thing about programming,Currently i know php - js - css - html  and i'll start learning more languages after i went in college...You can **support** my prjects with giving **star** to them, you can [**download my plugins from poggit**](https://poggit.pmmp.io/plugins/by/HighestDreams).
 
 ## Ways to connect me :
