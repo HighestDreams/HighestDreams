@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Xeno's stats](https://github-readme-stats.vercel.app/api?username=highestdreams&count_private=true&theme=onedark )](https://github.com/xenophilicy/github-readme-stats)
+[![Xeno's stats](https://github-readme-stats.vercel.app/api?username=highestdreams&count_private=true&theme=merko )](https://github.com/xenophilicy/github-readme-stats)
 
 Thanks for stopping by! You might know me from my [PocketMine plugins on Poggit](https://poggit.pmmp.io/plugins/by/Xenophilicy). While they turned out very successful (many of which have over 10k downloads❤️), I regret to inform everyone that my support for those plugins will no longer be offered. Updates will not be pushed, and no new planned changes will follow through. This is due to a lack of free time and interest in maintaining the public projects. Sorry for any inconvenience and thanks for understanding. **Please do not inquire on Discord for plugin support, you will be ignored and blocked.**
 ***
