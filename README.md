@@ -1,10 +1,17 @@
-## Hi there 👋
+## 📈 GitHub STATS 📉
 
-[![Xeno's stats](https://github-readme-stats.vercel.app/api?username=highestdreams&count_private=true&theme=radical )](https://github.com/xenophilicy/github-readme-stats)
+[![HighestDream's stats](https://github-readme-stats.vercel.app/api?username=highestdreams&count_private=true&theme=radical )]
 
-Thanks for stopping by! You might know me from my [PocketMine plugins on Poggit](https://poggit.pmmp.io/plugins/by/Xenophilicy). While they turned out very successful (many of which have over 10k downloads❤️), I regret to inform everyone that my support for those plugins will no longer be offered. Updates will not be pushed, and no new planned changes will follow through. This is due to a lack of free time and interest in maintaining the public projects. Sorry for any inconvenience and thanks for understanding. **Please do not inquire on Discord for plugin support, you will be ignored and blocked.**
+
+
+## Hi there, I'm a high school student, my branch is physics & mathematics and i'm in the last year of my highschool, I love to learn new thing about programming,Currently i know php - js - css - html  and i'll start learning more languages after i went in college...You can **support** my prjects with giving **star** to them, you can [**download my plugins from poggit**](https://poggit.pmmp.io/plugins/by/HighestDreams).
+
+## Ways to connect me :
+**Telegram**: [HighestDreams](https://t.me/ErrorByNight)
+**Discord**: HighestDreams#7683
+**Email**: HighestDreamsDev@gmail.com
 ***
-## [XenoServers](https://xenoservers.net)
-<img src="https://file.xenoservers.net/logo.png" width="100">
+## [BrokenGames](https://t.me/BrokenGames)
+<img src="https://github.com/HighestDreams/HighestDreams/blob/main/BrokenGames" width="150">
 
-I own a Minecraft: Bedrock Edition server with lots of custom written plugins and features. Come and check us out by [joining our Discord](https://discord.xenoservers.net) or [adding our server](https://xenoservers.net/join) to your Minecraft client! We offer gamemodes like Prison and SkyBlock, along with some new minigames like Skywars and more coming soon!
+Also i own a minecraft server **(Bedrock Edition)** with a lot of custom written plugins & features, Ckeck us on [Telegram Channel](https://discord.xenoservers.net) for IP & Other info 🤩.
